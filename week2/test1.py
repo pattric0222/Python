@@ -1,0 +1,5 @@
+first = input("Input First Number \n")
+second = input("Input Second Number \n")
+print("{} = {} : ".format(first,second),first == second)
+print("{} > {} : ".format(first,second),first > second)
+print("{} < {} : ".format(first,second),first < second)
