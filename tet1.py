@@ -27,6 +27,3 @@ class nisit :
 inputinfo()
 x = nisit(name,lastname,sex,year,department,hometown)
 x.showinfo()
-
-
-    

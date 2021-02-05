@@ -43,4 +43,3 @@ while True:
             break
         elif c.lower() == 'n':
             os.system('cls')
-            
